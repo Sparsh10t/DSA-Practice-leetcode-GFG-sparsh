@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0424-longest-repeating-character-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
