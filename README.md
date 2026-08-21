@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Array
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
