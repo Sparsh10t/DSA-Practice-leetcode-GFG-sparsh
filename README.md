@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
 ## Greedy
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
