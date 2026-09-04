@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,9 +48,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
