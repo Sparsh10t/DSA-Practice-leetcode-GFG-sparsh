@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0213-house-robber-ii) |
 | [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
 ## Greedy
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
