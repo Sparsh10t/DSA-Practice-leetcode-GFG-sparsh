@@ -77,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0064-minimum-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/1463-cherry-pickup-ii) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
