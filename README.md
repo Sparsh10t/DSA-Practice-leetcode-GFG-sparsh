@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0213-house-robber-ii) |
 | [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
+| [1463-cherry-pickup-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/1463-cherry-pickup-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
+| [1463-cherry-pickup-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/1463-cherry-pickup-ii) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0064-minimum-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
