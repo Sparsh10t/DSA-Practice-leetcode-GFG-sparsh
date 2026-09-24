@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0322-coin-change) |
 | [0860-lemonade-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0992-subarrays-with-k-different-integers) |
 | [1463-cherry-pickup-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/1463-cherry-pickup-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 | [1463-cherry-pickup-ii](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/1463-cherry-pickup-ii) |
 ## Stack
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0450-delete-node-in-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
