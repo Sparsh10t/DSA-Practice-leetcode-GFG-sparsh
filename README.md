@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sparsh10t/DSA-Practice-leetcode-GFG-sparsh/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
